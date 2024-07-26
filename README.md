@@ -1,9 +1,30 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# 출처 : https://www.youtube.com/watch?v=FKZAXFjxlJI
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+## server action practice
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+server action 을 이용한 api 요청 연습입니다.
+
+## Tech Stack
+
+- Next.js
+- TypeScript
+- Framer
+- Tailwind CSS
+
+## Quick Start
+
+### Clone
+```
+git clone https://github.com/HMRyu/server-action-practice.git
+```
+
+### Installation
+```
+npm install
+```
+
+### Run
+```
+npm run dev
+```
 
